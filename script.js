@@ -325,7 +325,7 @@ btnClose.addEventListener('click', function(e) {
     containerApp.style.opacity = 0;
   }
 })
-/// sort button 🔘 ///
+/// sort button 🔘  ///
 let sortStatus = false;
 btnSort.addEventListener('click', function(e) {
   e.preventDefault();
